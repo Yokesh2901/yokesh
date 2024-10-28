@@ -14,7 +14,7 @@
 }
 /* In your CSS file */
 .hero-bg {
-  background-image: url("D:\3d_port\src\assets\herobg.png");
+  background-image: url("herobg.png");
   background-size: cover;
   background-position: center;
 }
