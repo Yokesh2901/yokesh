@@ -224,7 +224,7 @@ import {
     {
       name: "Blind Stick",
       description:
-        "Designed an IoT-based smart stick using Arduino Uno and ultrasonic sensors to assist visually impaired individuals.",
+        "Developed an IoT-based smart stick using Arduino Uno, ultrasonic sensors, and vibration feedback to assist visually impaired individuals in navigating obstacles safely and independently.",
       tags: [
         {
           name: "arduinoUNO",
