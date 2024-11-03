@@ -25,6 +25,7 @@ import inno from "./company/inno.ico";
 import voice from "./voice.jpg";
 import face from "./face.png";
 import iot from "./iot.jpeg";
+import cnc from "./cnc.png";
 
 export {
   logo,
@@ -51,4 +52,5 @@ export {
   voice,
   face,
   iot,
+  cnc,
 };
