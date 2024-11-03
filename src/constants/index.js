@@ -18,6 +18,7 @@ import {
     voice,
     face,
     iot,
+    cnc,
     threejs,
   } from "../assets";
   
