@@ -242,6 +242,23 @@ import {
       image: iot,
       source_code_link: "https://github.com/",
     },
+    {
+      name: "Optimize Machine Downtime",
+      description:
+        "Analyzed CNC machine data, performed EDA for insights, developed predictive models, and deployed solutions to reduce unplanned downtime, optimizing performance and meeting business goals.",
+      tags: [
+        {
+          name: "Machine Learning",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "python",
+          color: "green-text-gradient",
+        }
+      ],
+      image: cnc,
+      source_code_link: "https://github.com/",
+    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };
