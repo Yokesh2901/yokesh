@@ -19,6 +19,7 @@ import {
     face,
     iot,
     cnc,
+    fire,
     threejs,
   } from "../assets";
   
@@ -262,6 +263,27 @@ import {
         }
       ],
       image: cnc,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "Safety and Hazard Management",
+      description:
+        "Collaborated with teams to define problems, preprocessed data, engineered features, and deployed AI models achieving 90% accuracy in hazardous material detection efficiently.",
+      tags: [
+        {
+          name: "Machine Learning",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "python",
+          color: "green-text-gradient",
+        },
+        {
+          name: "convolutionalneuralnetwork",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: fire,
       source_code_link: "https://github.com/",
     },
   ];
