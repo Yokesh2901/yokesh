@@ -62,6 +62,10 @@ import {
       title: "Web Development",
       icon: mobile,
     },
+    {
+      title: "Software Development",
+      icon: backend,
+    },
   ];
   
   const technologies = [
