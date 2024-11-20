@@ -26,6 +26,7 @@ import voice from "./voice.jpg";
 import face from "./face.png";
 import iot from "./iot.jpeg";
 import cnc from "./cnc.png";
+import fire from "./fire.jpg";
 
 export {
   logo,
@@ -53,4 +54,5 @@ export {
   face,
   iot,
   cnc,
+  fire,
 };
