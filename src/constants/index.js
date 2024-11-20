@@ -134,7 +134,7 @@ import {
       company_name: "Innodatatics",
       icon: inno,
       iconBg: "#1d165c",
-      date: "March 2023 - June 2023",
+      date: "June 2023 - November 2023",
       points: [
         "Analyzed CNC machine data to minimize unplanned downtime.",
         "Conducted comprehensive Exploratory Data Analysis (EDA) to identify critical insights.",
@@ -147,7 +147,7 @@ import {
       company_name: "Innodatatics",
       icon: inno,
       iconBg: "#1d165c",
-      date: "July 2024 - September 2024",
+      date: "March 2023 - June 2023",
       points: [
         "Collaborated with cross-functional teams to understand the business problem and technical constraints.",
         "Led the data collection, preprocessing, and feature engineering to build a robust dataset for training machine learning models.",
