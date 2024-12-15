@@ -204,7 +204,7 @@ import {
         },
       ],
       image: voice,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Yokesh2901",
     },
     {
       name: "Face Recognition",
@@ -225,7 +225,7 @@ import {
         },
       ],
       image: face,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Yokesh2901",
     },
     {
       name: "Blind Stick",
@@ -246,7 +246,7 @@ import {
         },
       ],
       image: iot,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Yokesh2901",
     },
     {
       name: "Optimize Machine Downtime",
@@ -263,7 +263,7 @@ import {
         }
       ],
       image: cnc,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Yokesh2901",
     },
     {
       name: "Safety and Hazard Management",
@@ -284,7 +284,7 @@ import {
         },
       ],
       image: fire,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Yokesh2901",
     },
   ];
   
